@@ -1,0 +1,77 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	min-width: 1200px;
+}
+.container{
+	font-family: 'Conv_SFPRODISPLAYREGULAR';
+	width: 1200px;
+	margin: auto;
+}
+
+.main__options {
+	background: white;
+	margin: auto;
+	height: 1840px;
+}
+
+.logo {
+	margin: auto;
+	width: 268px;
+	margin-top: 113px;
+}
+
+.logo img {
+	height: 100px;
+}
+
+.top__optionsText {
+	margin-top: 75px;
+	text-align: center;
+	font-size: 71px;
+}
+
+.watch_main {
+	width: 1054px;
+	margin: auto;
+}
+
+.bottom__optionsText{
+	font-size: 71px;
+	text-align: center;
+	width: 1032px;
+	margin: auto;
+	margin-bottom: 149px;
+}
+
+.top__text {
+	font-size: 71px;
+	text-align: center;
+	margin-top: 183px;
+	margin-bottom: 41px;
+}
+
+.benefits__img{
+	margin-top: 117px;
+	margin-bottom: 136px;
+}
+
+.options__text {
+	display: flex;
+	width: 816px;
+	justify-content: space-between;
+	margin: auto;
+	font-size: 25px;
+	margin-bottom: 146px;
+}
+
+hr {
+	width: 144px;
+	margin: 46px 0;
+}
+
+.option__item {
+	width: 346px;
+}
